@@ -1,0 +1,23 @@
+<root>
+    <lesson>
+        <module>Программирование</module>
+        <teacher>Письмак Алексей Евгеньевич</teacher>
+        <auditory>Актовый зал</auditory>
+        <campus>Ломоносова д. 9</campus>
+        <start_time>08:20</start_time>
+    </lesson>
+    <lesson>
+        <module>Иностранный язык</module>
+        <teacher>Филатов Андрей Сергеевич</teacher>
+        <auditory>3211</auditory>
+        <campus>Ломоносова д. 9</campus>
+        <start_time>11:40</start_time>
+    </lesson>
+    <lesson>
+        <module>Иностранный язык</module>
+        <teacher>Филатов Андрей Сергеевич</teacher>
+        <auditory>3211</auditory>
+        <campus>Ломоносова д. 9</campus>
+        <start_time>13:30</start_time>
+    </lesson>
+</root>
